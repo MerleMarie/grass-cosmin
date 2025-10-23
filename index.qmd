@@ -1,0 +1,5 @@
+---
+title: "GRRAS-COSMIN"
+---
+
+## **G**uidelines for **R**eporting **R**eliability and **A**greement **S**tudies - COnsensus-based Standards for the selection of health Measurement INstruments
