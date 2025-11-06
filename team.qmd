@@ -1,0 +1,133 @@
+---
+title: "The Team"
+page-layout: full
+---
+
+
+## Core project group
+
+<div class="team-grid">
+
+<div class="member">
+  <img class="avatar" src="images/MMP.jpg" alt="Merle-Marie Pittelkow portrait">
+  <h3>Merle-Marie Pittelkow</h3>
+  <p class="role"><em>Postdoctoral Researcher</em></p>
+  <p class="affil">
+    Charité Universitätsmedizin Berlin, Institute for Clinical Nursing Science, Berlin, Germany.
+  </p>
+
+  <details class="more" markdown="1">
+    <summary><span class="plus"></span> Read more</summary>
+
+Dr. Merle-Marie Pittelkow has a background in clinical psychology, methodology, and meta-research.
+
+</details>
+  </div>
+  
+  <!-- 2 -->
+<div class="member">
+  <img class="avatar oval" src="images/JK.jpg" alt="Jan Kottner portrait">
+  <h3>Jan Kottner</h3>
+  <p class="role"><em>Professor</em></p>
+  <p class="affil">
+    Charité Universitätsmedizin Berlin, Institute for Clinical Nursing Science, Berlin, Germany.
+  </p>
+
+  <details class="more" markdown="1">
+    <summary><span class="plus"></span> Read more</summary>
+
+Univ.-Prof. Dr. rer. cur. Jan Kottner is part of the original GRRAS team and has expertise in the selection, evaluation, development and measurement properties of standardized measurement tools and endpoints in clinical research and practice. 
+
+</details>
+  </div>
+
+  <!-- 3 -->
+<div class="member">
+  <img class="avatar" src="images/WM.png" alt="Lidwine B. (Wieneke) Mokkink portrait">
+  <h3>Lidwine B. (Wieneke) Mokkink</h3>
+  <p class="role"><em>Assistant Professor</em></p>
+  <p class="affil">
+    Department of Epidemiology and Data Science, Amsterdam UMC, and Amsterdam Public Health research institute, Methodology, Amsterdam, the Netherlands.
+  </p>
+
+  <details class="more" markdown="1">
+    <summary><span class="plus"></span> Read more</summary>
+
+Dr. Wieneke Mokkink is assistant professor at Amsterdam UMC, and her research focuses on developing internationally accepted guidelines to support the design and reporting of studies on measurement properties (e.g. validity, reliability), as well as the conduct and reporting of systematic reviews. In addition, she published educational papers on understanding measurement instruments and their measurement properties. As co-founder and current chair of the COSMIN community, she aims to connect researchers dedicated to improving measurement quality.
+
+</details>
+  </div>
+
+  <!-- 4 -->
+<div class="member">
+  <img class="avatar" src="images/streiner.png" alt="David L. Streiner portrait">
+  <h3>David L. Streiner</h3>
+  <p class="role"><em>Emeritus Professor</em></p>
+  <p class="affil">
+    McMaster University, Departments of Psychiatry & Neuroscience and of Health Research Methods Evidence and Impact
+  </p>
+
+  <details class="more" markdown="1">
+    <summary><span class="plus"></span> Read more</summary>
+
+Prof. Dr. Streiner is the author of Health Measurement Scales: A Practical Guide to Their Development and Use and (co-)authored many articles on psychometrics and research methodology 
+</details>
+  </div>
+
+  <!-- 5 -->
+<div class="member">
+  <img class="avatar" src="images/StigBrorson.JPG" alt="Stig Brorson portrait">
+  <h3>Stig Brorson</h3>
+  <p class="role"><em>Professor, consultant orthopaedic surgeon</em></p>
+  <p class="affil">
+Centre for Evidence-Based Orthopaedics, Zealand University Hospital, Denmark
+Department of Clinical Medicine, University of Copenhagen
+  </p>
+
+  <details class="more" markdown="1">
+    <summary><span class="plus"></span> Read more</summary>
+
+Prof. Dr. Brorson has published extensively on clinical epidemiology and evidence-based practice. He has a specific interest in classification systems and their influence on clinical decision-making. He advocates for evidence-based practice, patient involvement, and the de-implementation of low-value interventions.
+</details>
+  </div>
+
+  <!-- 6 -->
+<div class="member">
+  <img class="avatar" src="images/MShoukri.png" alt="Stig Brorson portrait">
+  <h3>Mohamed Shoukri</h3>
+  <p class="role"><em>Adjunct Professor </em></p>
+  <p class="affil">
+    Biostatistics and Scientific Computing Department, King Faisal Specialist Hospital and Research Centre, Riyadh, 11211, Saudi Arabia; 
+    Department of Epidemiology and Biostatistics, Schulich School of Medicine and Dentistry, University of Western Ontario, London, Ontario, Canada 
+  </p>
+
+  <details class="more" markdown="1">
+    <summary><span class="plus"></span> Read more</summary>
+
+Prof. Dr. Mohamed Shoukri's research focuses on techniques of inference with applications in analytic epidemiology. 
+
+</details>
+  </div>
+  
+</div>
+
+\hline
+
+## Collaborators
+
+<div class="team-grid">
+
+<div class="member">
+  <img class="avatar" src="images/MMoench_Foto.jpg" alt="Maximilian Mönch portrait">
+  <h3>Maximilian Mönch</h3>
+  <p class="role"><em>Doctoral Researcher</em></p>
+  <p class="affil">
+Charité – Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Institute of Biometry and Clinical Epidemiology, Charitéplatz 1, 10117 Berlin, Germany  </p>
+
+  <details class="more" markdown="1">
+    <summary><span class="plus"></span> Read more</summary>
+Maximilian Mönch has a background in mathematical statistics, biometry, psychology and special needs care.
+
+</details>
+  </div>
+   
