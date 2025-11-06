@@ -1,1 +1,78 @@
 /* css styles */
+/* background color */
+body {
+  background-color: #F8F8FF; /* change this to any color you like */
+ color: #2e2e2e; /* text color */
+}
+/* hyperlink color */
+a {
+    color: #96424a;
+}
+
+/* headings color */
+h1.title, h1, h2, h3, h4 {
+    color: #191970;
+    font-weight: bold;
+}
+
+/* table font size */
+.kable-table {
+  font-size: 85%;
+}
+
+/* Make navbar font match headings */
+
+/* Make navbar links match heading color */
+.navbar-nav .nav-link,
+.navbar-brand {
+  color: #F8F8FF !important; /* match your heading color */
+}
+
+/* Limit text width and center content */
+main.content {
+  max-width: 1200px;      /* adjust width to match your grid */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Ensure text, figures, and tables respect this width */
+main.content p,
+main.content table,
+main.content ul,
+main.content ol,
+main.content img {
+  max-width: 100%;
+}
+
+
+/* ===========================
+   Team layout
+   =========================== */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);  /* ✅ 2 people per row */
+  gap: 2rem;                              /* space between cards */
+  align-items: start;
+  margin-top: 2rem;
+}
+
+.member {
+  text-align: left;
+}
+
+/* Portrait image style */
+.member .avatar {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 0.75rem auto;
+}
+
+/* Responsive: 1 column on small screens */
+@media (max-width: 768px) {
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+}
