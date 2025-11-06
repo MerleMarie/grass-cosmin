@@ -1,0 +1,60 @@
+---
+title: "Development"
+---
+
+
+The GRRAS-COSMIN project will follow internationally accepted [best-practices for reporting guideline development](https://www.equator-network.org/toolkits/developing-a-reporting-guideline/) established by the EQUATOR network. 
+Our approach will involve multiple stages to ensure that the resulting guideline is both **evidence-based** and **consensus-driven**.
+
+---
+
+### 1. Methods Review
+
+The first stage of the GRRAS-COSMIN project consists of a **comprehensive methods review** of the existing literature on reliability and agreement studies.  
+
+This methods review aims to systematically identify and  synthesize commentaries on and evaluations of the original  GRRAS,  and to map recent methodological developments in the planning, conduct, and interpretation of reliability,agreement and measurement error studies that should be reflected in the reporting and may imply or explicitly recommend updates, to inform the development of the GRRAS-COSMIN reporting guidelines.
+
+A detailed description of the planned methods is available in our preprint:
+
+> [**GRRAS-COSMIN Methods Review**](https://osf.io/preprints/metaarxiv/um57k_v1)
+
+The results will inform the development of an initial draft of the GRRAS-COSMIN guideline for reporting studies on reliability and agreement/measurement error, which willsubsequently be refined through a modified Delphi consensus process involving key stakeholdersand experts.
+
+---
+
+### 2. Delphi Study
+
+Building upon the findings from the methods review, we will conduct a **Delphi study** with an international panel of experts in reliability and agreement research.  
+
+The purpose of this phase will be to achieve consensus on the essential items that should be included in the new reporting guideline.
+
+The detailed **protocol** for the Delphi study, including its design, participant eligibility, and analysis plan, is pre-registered on the Open Science Framework (OSF):
+
+> [**Delphi Study Protocol** ](https://osf.io/kunjt/files/8uxze)
+
+We are currently inviting researchers and practitioners with expertise in reliability and agreement studies to join the Delphi panel.  
+
+If you are interested in participating, please [contact us](mailto:merle-marie@charite.de).
+
+---
+
+### 3. Consensus Meeting
+
+After the completion of the Delphi rounds, we will organize an online **consensus meeting** to finalize the list of reporting items. 
+
+This meeting will involve Delphi participants and other key stakeholders to ensure balanced representation and refinement of the guideline structure and terminology.
+
+The meeting will follow the procedures outlined by the [EQUATOR Network](https://www.equator-network.org/toolkits/developing-a-reporting-guideline/developing-your-reporting-guideline/), emphasizing transparency, inclusivity, and systematic documentation of decisions.
+
+---
+
+## 4. Next Steps
+
+Following the consensus meeting, we will:
+
+- Draft the **GRRAS-COSMIN Reporting Guideline** and an accompanying **Explanation and Elaboration document**.  
+- Finalize and publish the guideline, making it openly available through the [EQUATOR Network](https://www.equator-network.org/) and other dissemination platforms.
+
+In line with our commitment to **open science**, all study materials, data, and outputs will continue to be made available via the [Open Science Framework (OSF)](https://osf.io/).
+
+---
