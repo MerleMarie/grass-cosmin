@@ -15,7 +15,7 @@ website:
     position: below-navbar 
  # reader-mode: true
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - projects.qmd
@@ -37,19 +37,13 @@ format:
     toc: false
     self-contained: true
     grid:
-      body-width: "900px"
+      body-width: "1200px"
 
     
 editor: visual
               
 
-sidebar:   
-    title: "GRRAS-COSMIN"
-    search: false
-    # logo: cortre_logo.png
-    collapse-level: 2
-    contents: 
-      - index.qmd
-      - team/index.qmd
-      
+sidebar:
+  style: "floating"   # or "docked"
+  contents: auto
 

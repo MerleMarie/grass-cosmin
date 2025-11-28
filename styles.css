@@ -20,6 +20,24 @@ h1.title, h1, h2, h3, h4 {
   font-size: 85%;
 }
 
+/* Match sidebar TOC background to page background */
+.sidebar, .sidebar nav.toc {
+  background-color: transparent !important;   /* inherits page background */
+  box-shadow: none !important;
+}
+
+/* Make the TOC fill the full left sidebar width */
+.sidebar {
+  width: 250px !important;       /* or any width you like */
+}
+
+.sidebar nav.toc {
+  width: 100% !important;        /* take up full sidebar width */
+  max-width: none !important;    /* remove internal limit */
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
 /* Make navbar font match headings */
 
 /* Make navbar links match heading color */

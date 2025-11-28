@@ -1,5 +1,12 @@
 ---
 title: "Development"
+toc: true
+toc-depth: 3
+toc-location: left
+
+sidebar:
+  style: "docked"
+  contents: auto   
 ---
 
 
