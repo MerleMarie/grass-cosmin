@@ -36,7 +36,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-    self-contained: true
+    self-contained: false
     grid:
       body-width: "1200px"
 
