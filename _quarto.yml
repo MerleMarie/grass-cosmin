@@ -6,7 +6,6 @@ project:
 website:
   title: "GRRAS-COSMIN"
   description: "Website to present the ongoing project GRRAS-COSMIN developing updated reporting guidelines for agreement and reliability studies. "
-  site-url: "grass-cosmin.com"
   announcement: 
     content: |
       **New** — we are currently looking for panelists for our Delphi study.  
